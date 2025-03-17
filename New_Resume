@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <title>Resume</title>
+ </head>
+ <body>
+    <table style="width: 20%;">
+    <form>
+ 
+     <h1 align="right" >MICHELLE LONG</h1>
+     <p align="right" >Indianapolis, IN | (555) 555-5555 | example@example.com</p>
+ 
+     <h2>Professional Summary</h2>
+     <p>Personable Public Relations Manager with a history of working tirelessly at building effective relationships with clients, 
+     vendors, media professionals and staff members. Highly deadline-driven.</p>
+ 
+     <h2>Skills</h2>
+     <table style="border-spacing: 20px;">
+     
+     <tr>
+        <ul>
+            <td>
+                <li>Digital marketing</li>
+            </td>
+            <td>
+                <li>Story development and brand management</li>
+        </td>
+        </ul>
+    </tr>
+
+    <tr>
+        <ul>
+            <td>
+                <li>Strategic management</li>
+            </td>
+            <td>
+                <li>Event planning</li>
+        </td>
+        </ul>
+    </tr>
+
+    <tr>
+        <ul>
+            <td>
+                <li>Exceptional copywriter</li>
+            </td>
+            <td>
+                <li>Quantitative and qualitative market research</li>
+        </td>
+        </ul>
+    </tr>
+
+    <tr>
+        <ul>
+            <td>
+                <li>Industry analyst relations</li>
+            </td>
+            <td>
+                <li>Community outreach</li>
+        </td>
+        </ul>
+    </tr>
+
+    
+</table>
+      
+ 
+     <h2>Work History</h2>
+ 
+     
+
+     <table width="100%">
+     <tr>
+        
+            <td>
+                <h3>Public Relations Manager</h3>
+            </td>
+            <td>
+                <h4 align="right"> Nov 2015 - Current</h4>
+        </td>
+        
+    </tr>
+
+    
+</table>
+     <strong>Salesforce</strong> 
+     <ul>
+         <li>Represented the organization to customers, the public, government officials and other external sources.</li>
+         <li>Collaborated with external PR firms, as well as internal sales and marketing teams, to determine branding, messaging, and media needs.</li>
+         <li>Drafted and edited content for organizational publications, including employee newsletters and stockholders' updates.</li>
+         <li>Developed and deepened relationships with key customers by closely monitoring projects, providing information and resolving concerns.</li>
+     </ul>
+ 
+     <h3>Communications Coordinator</h3>
+     <p><strong>PriceWaterhouseCoopers</strong> | Indianapolis, IN | Aug 2013 - Oct 2015</p>
+     <ul>
+         <li>Developed and managed print, online and social media communications designed to promote company brand, image and values.</li>
+         <li>Worked closely with internal business divisions, agency partners and local vendors to guarantee on time, cost-effective delivery of communications programs.</li>
+         <li>Developed and managed communications strategies, plans and budgets.</li>
+         <li>Developed partnerships with local businesses to secure third party promotions.</li>
+     </ul>
+ 
+     <h3>Marketing Intern</h3>
+     <p><strong>Salesforce</strong> | Indianapolis, IN | Jun 2012 - Aug 2012</p>
+     <ul>
+         <li>Improved social media reach by creating Facebook pages and debuting new marketing strategies relating to the platform.</li>
+         <li>Developed marketing strategies and resolved problems to drive sales.</li>
+         <li>Assisted director of pre-season marketing and sales to support department and divisional strategies.</li>
+         <li>Provided on-the-ground support to staff including creating proposals and organizing documentation.</li>
+     </ul>
+ 
+     <h2>Education</h2>
+     <p><strong>Bachelor Of Arts: English</strong></p>
+     <p>Butler University | Indianapolis, IN | 2013</p>
+    </table>
+     </form>
+ </body>
+ </html>
